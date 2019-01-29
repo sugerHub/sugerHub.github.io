@@ -11,7 +11,7 @@ github_repo: "https://github.com/MRZHL/zhuahulin.github.io.git" # you code repos
 
 
 
-// 侧边栏
+# 侧边栏
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "简单就是美!"
